@@ -1,0 +1,70 @@
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fogin.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemDanhMuc.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemThucDon.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAddAccount.resources
+C:\Users\Lenovo\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fResetPassword.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAddAccount.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fogin.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemDanhMuc.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemThucDon.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\Hi\Downloads\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemBanAn.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAddAccount.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fogin.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemBanAn.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemDanhMuc.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemThucDon.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\IDM\QuanLyCafe\QuanLyCafe (3)-test\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fBillDetails.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAddAccount.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fBillDetails.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fogin.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemBanAn.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemDanhMuc.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThemThucDon.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\project_hoc_tap_c#\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
